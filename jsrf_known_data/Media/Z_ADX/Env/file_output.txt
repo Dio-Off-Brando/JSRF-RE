@@ -1,0 +1,15 @@
+effect_005.adx: CRI ADX ADPCM audio v3, standard ADX, 22050 Hz, looping
+effect_006.adx: Targa image data - Mono 2048 x 252 x 1 +8790 - 4-bit alpha - top - right - reserved "\003"
+effect_007.adx: Targa image data - RGBA 2560 x 6424 x 1 +8790 - 4-bit alpha - top - right - reserved "\003"
+effect_008.adx: Targa image data - Map 1280 x 20531 x 1 +8790 - 4-bit alpha - top - right - reserved "\003"
+effect_009.adx: CRI ADX ADPCM audio v3, standard ADX, 22050 Hz, looping
+effect_010.adx: CRI ADX ADPCM audio v3, standard ADX, 22050 Hz, looping
+effect_011.adx: CRI ADX ADPCM audio v3, standard ADX, 22050 Hz, looping
+effect_012.adx: CRI ADX ADPCM audio v3, standard ADX, 22050 Hz, looping
+effect_014.adx: CRI ADX ADPCM audio v3, standard ADX, 22050 Hz, looping
+effect_015.adx: CRI ADX ADPCM audio v3, standard ADX, 22050 Hz, looping
+effect_016.adx: CRI ADX ADPCM audio v3, standard ADX, 22050 Hz, looping
+effect_017.adx: CRI ADX ADPCM audio v3, standard ADX, 22050 Hz, looping
+effect_018.adx: CRI ADX ADPCM audio v3, standard ADX, 22050 Hz, looping
+effect_019.adx: CRI ADX ADPCM audio v3, standard ADX, 22050 Hz, looping
+effect_020.adx: CRI ADX ADPCM audio v3, standard ADX, 22050 Hz, looping

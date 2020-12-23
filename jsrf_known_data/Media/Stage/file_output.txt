@@ -1,0 +1,161 @@
+Custom:       directory
+stg00_00.dat: data
+stg00_01.dat: data
+stg00_02.dat: data
+stg00_03.dat: DOS/MBR boot sector
+stg00_04.dat: data
+stg00_.bin:   data
+Stg00_t.bin:  data
+Stg00_t.dat:  data
+Stg10_00.dat: data
+Stg10_01.dat: firmware a3d1 va244 (revision 3751425090) " \023\2150$ (region 2050013123), 0 bytes or less, UNKNOWN1 0x7a30b7c3, UNKNOWN3 0x803f, at 0x0 0 bytes , at 0x0 0 bytes 
+Stg10_02.dat: data
+Stg10_03.dat: data
+Stg10_04.dat: data
+Stg10_05.dat: data
+Stg10_.bin:   data
+Stg10_t.bin:  data
+Stg10_t.dat:  data
+Stg11_00.dat: firmware bd67 v3024 (revision 3831967780)  z\224\360&K\022\026M'h0$E8\200/\225q, version 5005.12324.6386 (region 2108729126), 276935983 bytes or less, UNKNOWN1 0x7db0a726, UNKNOWN2 0x12c5ce2b, UNKNOWN3 0x822cf525, at 0xf0673024 3453468719 bytes , at 0x9b667937 1335445562 bytes , at 0x7db0a726 1440278573 bytes
+Stg11_01.dat: firmware 41df v7542 (revision 2902820804) \035 , version 512.0.51200 (region 1368045379), 0 bytes or less, UNKNOWN1 0x518ab743, UNKNOWN3 0x803f, at 0x0 0 bytes , at 0x0 0 bytes 
+Stg11_02.dat: firmware 0 v0 (revision 900079429) > \360g0$E8\200/ (region 2807538754), 32831 bytes or less, UNKNOWN1 0xa757a442, at 0x0 0 bytes , at 0x0 0 bytes 
+Stg11_03.dat: data
+Stg11_04.dat: data
+stg11_05.dat: data
+stg11_06.dat: data
+Stg11_.bin:   data
+Stg11_t.bin:  data
+Stg11_t.dat:  data
+Stg12_00.dat: data
+Stg12_01.dat: data
+Stg12_02.dat: data
+Stg12_03.dat: data
+Stg12_04.dat: data
+Stg12_05.dat: data
+stg12_06.dat: data
+stg12_07.dat: data
+stg12_08.dat: data
+Stg12_.bin:   data
+Stg12_t.bin:  data
+Stg12_t.dat:  data
+Stg13_00.dat: data
+Stg13_01.dat: firmware 8000 v0 (revision 0) \031 \330\212\017V3f\020VI\212\327U\325\2, 32831 bytes or less, at 0x803f 32831 bytes , at 0x0 0 bytes 
+Stg13_02.dat: data
+Stg13_03.dat: data
+Stg13_04.dat: data
+Stg13_05.dat: data
+Stg13_.bin:   data
+stg13_t.bin:  data
+stg13_t.dat:  data
+stg20_00.dat: firmware 5c4 vae36 (revision 0)  y>\023=\332M\3223\346n\350C\221\375\, version 0.32831.0 (region 16777216), 0 bytes or less, UNKNOWN1 0x1000000, UNKNOWN3 0x1f282744, at 0x0 0 bytes , at 0x0 0 bytes 
+stg20_01.dat: firmware 446d v5d43 (revision 4267629378) \022 \023\2150$ (region 1130459972), 0 bytes or less, UNKNOWN1 0x43617344, UNKNOWN3 0x803f, at 0x0 0 bytes , at 0x0 0 bytes 
+stg20_02.dat: data
+stg20_03.dat: data
+stg20_04.dat: data
+stg20_05.dat: data
+stg20_.bin:   data
+Stg20_t.bin:  data
+Stg20_t.dat:  data
+stg21_00.dat: data
+stg21_01.dat: data
+stg21_02.dat: data
+stg21_03.dat: data
+stg21_.bin:   data
+stg21_t.bin:  data
+stg21_t.dat:  data
+stg22_00.dat: firmware 0 v0 (revision 2483027968) \001 \344JER\245%0>|\233^3P\265s5\005\304 (region 2147483648), 0 bytes or less, UNKNOWN1 0x80000000, UNKNOWN2 0x511a5bc3, at 0x0 32831 bytes , at 0x803f 32831 bytes 
+stg22_01.dat: data
+stg22_02.dat: data
+stg22_03.dat: firmware 25cf v2444 (revision 753226820) 3 , version 512.0.51200 (region 444060483), 0 bytes or less, UNKNOWN1 0x1a77d343, UNKNOWN3 0x803f, at 0x0 0 bytes , at 0x0 0 bytes 
+stg22_04.dat: firmware 8000 v0 (revision 0) ? P\265s5|\233^3\221\375\3102\005\304\, 32831 bytes or less, at 0x803f 32831 bytes , at 0x0 0 bytes 
+stg22_05.dat: data
+stg22_06.dat: data
+stg22_07.dat: data
+stg22_08.dat: data
+stg22_.bin:   data
+stg22_t.bin:  data
+stg22_t.dat:  DIY-Thermocam raw data (Lepton 2.x), scale 20480-0, spot sensor temperature 0.000000, unit celsius, color scheme 0, minimum point enabled, calibration: offset 36893488147419103232.000000, slope 36893488147419103232.000000
+stg23_00.dat: firmware 8000 v0 (revision 0)  mr\355Pjr\355P\260, 32831 bytes or less, at 0x803f 32831 bytes , at 0x0 0 bytes 
+Stg23_01.dat: data
+Stg23_02.dat: data
+Stg23_03.dat: data
+Stg23_.bin:   data
+Stg23_t.bin:  data
+Stg23_t.dat:  data
+stg24_00.dat: data
+stg24_01.dat: data
+stg24_02.dat: data
+stg24_03.dat: data
+stg24_04.dat: data
+stg24_05.dat: data
+stg24_.bin:   data
+stg24_t.bin:  data
+stg24_t.dat:  DIY-Thermocam raw data (Lepton 2.x), scale 20480-0, spot sensor temperature 0.000000, unit celsius, color scheme 0, minimum point enabled, calibration: offset 36893488147419103232.000000, slope 36893488147419103232.000000
+stg30_00.dat: firmware 0 v8b5 (revision 3570968897) \302 \001, version 32768.0.256, 0 bytes or less, UNKNOWN3 0x803f, at 0x0 0 bytes , at 0x0 0 bytes 
+stg30_01.dat: data
+stg30_02.dat: firmware 96b4 vfb2f (revision 0) ' +3\031,_\346\3721a\346\3721}\370\001, version 0.32831.0 (region 16777216), 0 bytes or less, UNKNOWN1 0x1000000, UNKNOWN3 0x5fd60544, at 0x0 0 bytes , at 0x0 0 bytes 
+stg30_03.dat: firmware 0 v0 (revision 3434650948) _ +3\031,\^t. (region 1451015490), 32831 bytes or less, UNKNOWN1 0x567cbd42, at 0x0 0 bytes , at 0x0 0 bytes 
+stg30_04.dat: data
+stg30_05.dat: data
+stg30_06.dat: data
+stg30_07.dat: data
+stg30_08.dat: data
+stg30_.bin:   data
+Stg30_t.bin:  data
+Stg30_t.dat:  data
+stg31_00.dat: data
+stg31_01.dat: firmware 0 v0 (revision 506161220)  s\341\010B\334\264\312A (region 865483460), 32831 bytes or less, UNKNOWN1 0x33963ac4, at 0x0 0 bytes , at 0x0 0 bytes 
+stg31_02.dat: data
+stg31_03.dat: data
+stg31_04.dat: data
+stg31_05.dat: data
+stg31_.bin:   data
+Stg31_t.bin:  data
+Stg31_t.dat:  data
+Stg32_00.dat: firmware 0 v0 (revision 0)  !e\003I\312\354\371G\036\3047I\242v\ (region 2483027968), 0 bytes or less, UNKNOWN1 0x94000000, UNKNOWN2 0x2be1c1c1, at 0x0 0 bytes , at 0x803f 32831 bytes , at 0x803f
+Stg32_01.dat: data
+Stg32_.bin:   data
+Stg32_t.bin:  data
+Stg32_t.dat:  data
+stg33_00.dat: firmware 0 v0 (revision 1915069505) \002 \001, version 32768.0.256, 0 bytes or less, UNKNOWN3 0x803f, at 0x0 0 bytes , at 0x0 0 bytes 
+stg33_01.dat: data
+stg33_02.dat: firmware 0 v0 (revision 0) S \0033\031,\^t.\037J\366J (region 946774595), 32831 bytes or less, UNKNOWN1 0x386ea243, at 0x803f 0 bytes , at 0x0 0 bytes 
+stg33_03.dat: data
+stg33_04.dat: data
+stg33_05.dat: data
+stg33_.bin:   data
+Stg33_t.bin:  data
+Stg33_t.dat:  data
+Stg34_00.dat: firmware df85 vf048 (revision 2397585209) \006 \227^t=@\237\324<=\237\324<\245\324< (region 3347097910), 0 bytes or less, UNKNOWN1 0xc780a936, UNKNOWN2 0xf49fb938, at 0x0 3214722756 bytes , at 0x6e228e42 855973700 bytes , at 0x8083d144
+Stg34_01.dat: data
+Stg34_02.dat: data
+Stg34_03.dat: data
+Stg34_04.dat: firmware 1a86 ve43d (revision 0) y \307\200\2516\302\200\2516\244xp>\02, version 0.32831.0 (region 16777216), 0 bytes or less, UNKNOWN1 0x1000000, UNKNOWN3 0xef93da44, at 0x0 0 bytes , at 0x0 0 bytes 
+Stg34_05.dat: data
+Stg34_06.dat: data
+Stg34_.bin:   data
+Stg34_t.bin:  data
+Stg34_t.dat:  data
+stg50_00.dat: data
+stg50_01.dat: Linux/i386 core file of '\001' (signal 168)
+stg50_.bin:   data
+stg50_t.bin:  data
+stg50_t.dat:  data
+stg51_00.dat: data
+stg51_.bin:   data
+stg51_t.bin:  data
+stg51_t.dat:  DIY-Thermocam raw data (Lepton 2.x), scale 20480-0, spot sensor temperature 0.000000, unit celsius, color scheme 0, minimum point enabled, calibration: offset 36893488147419103232.000000, slope 36893488147419103232.000000
+stg52_00.dat: data
+stg52_.bin:   data
+Stg52_t.bin:  data
+Stg52_t.dat:  data
+stg53_00.dat: firmware 0 v0 (revision 2483027968)  \264 (region 2147483648), 0 bytes or less, UNKNOWN1 0x80000000, UNKNOWN2 0xea82e142, at 0x0 32831 bytes , at 0x803f 32831 bytes 
+stg53_01.dat: data
+stg53_.bin:   data
+stg53_t.bin:  data
+stg53_t.dat:  data
+stg54_00.dat: firmware 0 v0 (revision 3139367363)  /A\025O\261\351@: (region 634565442), 32831 bytes or less, UNKNOWN1 0x25d2b342, at 0x0 0 bytes , at 0x0 0 bytes 
+stg54_01.dat: data
+stg54_.bin:   data
+Stg54_t.bin:  data
+Stg54_t.dat:  data

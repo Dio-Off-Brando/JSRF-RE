@@ -1,0 +1,16 @@
+LogoE.dat:      data
+LogoF.dat:      data
+LogoG.dat:      data
+LogoJ.dat:      data
+LogoS.dat:      data
+playdemo00.dat: data
+Title.bin:      data
+Title.dat:      data
+TitleE.bin:     data
+TitleE.dat:     data
+TitleF.bin:     data
+TitleF.dat:     data
+TitleG.bin:     data
+TitleG.dat:     data
+TitleS.bin:     data
+TitleS.dat:     data

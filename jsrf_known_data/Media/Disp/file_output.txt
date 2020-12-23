@@ -1,0 +1,12 @@
+charicon:     directory
+map:          directory
+SprNorm1.bin: data
+SprNorm1.dat: data
+SprNorm2.bin: data
+SprNorm2.dat: data
+SprNorm3.bin: data
+SprNorm3.dat: data
+SprNorm4.bin: data
+SprNorm4.dat: data
+SprNorm.bin:  data
+SprNorm.dat:  data

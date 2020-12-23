@@ -1,0 +1,6 @@
+playdemo01.dat: data
+tex_Eng.dat:    data
+tex_Frn.dat:    data
+tex_Ger.dat:    data
+tex_Jpn.dat:    data
+tex_Spa.dat:    data

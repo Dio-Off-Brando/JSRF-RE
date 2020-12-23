@@ -1,0 +1,55 @@
+aisle10.adx:   CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+answer.adx:    CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+baby_t.adx:    CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+birthday.adx:  Targa image data - Mono 28160 x 35391 x 1 +17580 - 4-bit alpha - top - right - reserved "\003"
+bokfresh.adx:  Targa image data - Map 33792 x 24633 x 1 +17580 - 4-bit alpha - top - right - reserved "\003"
+bounce.adx:    CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+buttrfly.adx:  CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+clear.adx:     CRI ADX ADPCM audio v3, standard ADX, 44100 Hz
+clr_dj1.adx:   Targa image data - Map 17408 x 26611 x 1 +17580 - 4-bit alpha - top - right - reserved "\003"
+concept.adx:   Targa image data - Map 36096 x 22098 x 1 +17580 - 4-bit alpha - top - right - reserved "\003"
+dealer.adx:    Targa image data - Mono 34560 x 56313 x 1 +17580 - 4-bit alpha - top - right - reserved "\003"
+dj_demo1.adx:  Targa image data - Mono 16384 x 2197 x 1 +17580 - 4-bit alpha - top - right - reserved "\003"
+ending.adx:    CRI ADX ADPCM audio v3, standard ADX, 44100 Hz
+ending_l.adx:  CRI ADX ADPCM audio v3, standard ADX, 44100 Hz
+ending_s.adx:  CRI ADX ADPCM audio v3, standard ADX, 44100 Hz
+future.adx:    CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+g_over.adx:    CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+g_park.adx:    CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+grace.adx:     Targa image data - RGBA 38912 x 25404 x 1 +17580 - 4-bit alpha - top - right - reserved "\003"
+intent.adx:    CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+koto.adx:      CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+latchula.adx:  CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+letmom.adx:    Targa image data - Map 32768 x 62462 x 1 +17580 - 4-bit alpha - top - right - reserved "\003"
+likeit.adx:    Targa image data - Map 28160 x 43603 x 1 +17580 - 4-bit alpha - top - right - reserved "\003"
+lovelove.adx:  Targa image data - RGBA 46848 x 10960 x 1 +17580 - 4-bit alpha - top - right - reserved "\003"
+mic.adx:       CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+model.adx:     CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+oldies.adx:    Targa image data - RLE 31488 x 46788 x 1 +17580 - 4-bit alpha - top - right - reserved "\003"
+pathetic.adx:  Targa image data - RGBA 38400 x 12677 x 1 +17580 - 4-bit alpha - top - right - reserved "\003"
+poompoom.adx:  CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+rockiton.adx:  CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+scrappy.adx:   CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+set_04.adx:    CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+set_06.adx:    CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+sneakman.adx:  CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+s_set_01a.adx: Targa image data - Mono 56579 x 35630 x 1 +17580 - 4-bit alpha - top - right - reserved "\003"
+s_set_01b.adx: Targa image data - Mono 55043 x 27292 x 1 +17580 - 4-bit alpha - top - right - reserved "\003"
+s_set_02a.adx: CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+s_set_02b.adx: CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+s_set_03a.adx: CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+s_set_03b.adx: CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+s_set_05a.adx: CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+s_set_05b.adx: CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+s_set_06.adx:  Targa image data - RGBA 48641 x 35892 x 1 +17580 - 4-bit alpha - top - right - reserved "\003"
+s_set_07a.adx: CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+s_set_07b.adx: CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+s_set_08a.adx: CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+s_set_08b.adx: CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+s_set_09a.adx: CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+s_set_09b.adx: Targa image data - Mono 5636 x 4905 x 1 +17580 - 4-bit alpha - top - right - reserved "\003"
+sweet.adx:     CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+thats.adx:     CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping
+title.adx:     CRI ADX ADPCM audio v3, standard ADX, 44100 Hz
+victory.adx:   Targa image data - Mono 30208 x 26770 x 1 +17580 - 4-bit alpha - top - right - reserved "\003"
+whatbout.adx:  CRI ADX ADPCM audio v3, standard ADX, 44100 Hz, looping

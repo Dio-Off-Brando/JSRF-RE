@@ -1,0 +1,12 @@
+Stage00.bin: data
+Stage00.dat: data
+Stage01.bin: data
+stage01.dat: DIY-Thermocam raw data (Lepton 2.x), scale 7227-9537, spot sensor temperature 1.000000, unit celsius, color scheme 0, calibration: offset 0.000000, slope 6308714.500000
+Stage02.bin: data
+Stage02.dat: data
+Stage03.bin: data
+Stage03.dat: data
+Stage04.bin: data
+Stage04.dat: data
+Stage05.bin: data
+Stage05.dat: data

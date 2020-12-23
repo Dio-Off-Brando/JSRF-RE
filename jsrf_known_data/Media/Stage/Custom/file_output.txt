@@ -1,0 +1,120 @@
+stg08_00.dat: data
+stg08_01.dat: firmware 0 vcdc2 (revision 0) \016 MDLB\001, version 256.0.32768 (region 3891177283), 32831 bytes or less, UNKNOWN1 0xe7eea743, UNKNOWN3 0x803f, at 0x0 0 bytes , at 0x0 0 bytes 
+stg08_02.dat: data
+stg08_03.dat: data
+stg08_04.dat: data
+stg08_05.dat: data
+stg08_06.dat: data
+stg08_.bin:   data
+stg08_t.bin:  data
+stg08_t.dat:  data
+stg09_00.dat: firmware 0 v8b5 (revision 3570968897) ` \001, version 32768.0.256, 0 bytes or less, UNKNOWN3 0x803f, at 0x0 0 bytes , at 0x0 0 bytes 
+stg09_01.dat: data
+stg09_02.dat: data
+stg09_03.dat: data
+stg09_04.dat: data
+stg09_05.dat: data
+stg09_06.dat: data
+stg09_07.dat: data
+stg09_08.dat: data
+stg09_.bin:   data
+stg09_t.bin:  data
+stg09_t.dat:  DIY-Thermocam raw data (Lepton 3.x), scale 16384-0, spot sensor temperature 0.000000, unit celsius, color scheme 0, minimum point enabled, calibration: offset 8589934592.000000, slope 8589934592.000000
+stg18_00.dat: firmware 0 v0 (revision 2483027968)  *\345pO\272\240kO\330 (region 2147483648), 0 bytes or less, UNKNOWN1 0x80000000, UNKNOWN2 0x636df3c3, at 0x0 32831 bytes , at 0x803f 32831 bytes 
+stg18_01.dat: data
+stg18_02.dat: data
+stg18_03.dat: data
+stg18_04.dat: data
+stg18_05.dat: data
+stg18_06.dat: data
+stg18_.bin:   data
+stg18_t.bin:  data
+stg18_t.dat:  data
+stg19_00.dat: firmware df85 vf048 (revision 2397585209) \006 \227^t=@\237\324<=\237\324<\245\324< (region 3347097910), 0 bytes or less, UNKNOWN1 0xc780a936, UNKNOWN2 0xf49fb938, at 0x0 3332163268 bytes , at 0x6cee8d42 3020234564 bytes , at 0xb280d144
+stg19_01.dat: data
+stg19_02.dat: data
+stg19_03.dat: firmware 0 v0 (revision 16777216) 3 \200#%Dy#%D\032\364\305:\363\031wA\3, version 0.32831.0, 0 bytes or less, at 0x0 0 bytes , at 0x0 0 bytes , at 0x803f 32831 bytes
+stg19_04.dat: firmware 0 v0 (revision 0) R \024\032wA\360\031wA\026\032wA (region 725015492), 32831 bytes or less, UNKNOWN1 0x2b36dbc4, at 0x803f 0 bytes , at 0x0 0 bytes 
+stg19_05.dat: data
+stg19_06.dat: data
+stg19_07.dat: data
+stg19_.bin:   data
+Stg19_t.bin:  data
+stg19_t.dat:  data
+stg28_00.dat: firmware 0 v0 (revision 3143076675) D \352\227\215K\355\227\215K (region 2868027329), 32831 bytes or less, UNKNOWN1 0xaaf29fc1, at 0x0 0 bytes , at 0x0 0 bytes 
+stg28_01.dat: firmware 0 v0 (revision 0)  M\353\225K\314\271"O\317\271"O (region 4149012547), 32831 bytes or less, UNKNOWN1 0xf74ce843, at 0x803f 0 bytes , at 0x0 0 bytes 
+stg28_02.dat: data
+stg28_.bin:   data
+Stg28_t.bin:  data
+stg28_t.dat:  data
+stg29_00.dat: firmware 0 v0 (revision 2240451525) \177 \352\227\215K\355\227\215K (region 1794285505), 32831 bytes or less, UNKNOWN1 0x6af29fc1, at 0x0 0 bytes , at 0x0 0 bytes 
+stg29_01.dat: data
+stg29_02.dat: data
+stg29_03.dat: data
+stg29_04.dat: data
+stg29_05.dat: data
+stg29_06.dat: data
+stg29_07.dat: data
+stg29_.bin:   data
+stg29_t.bin:  data
+stg29_t.dat:  data
+stg38_00.dat: data
+stg38_01.dat: data
+stg38_02.dat: firmware 0 vcdc2 (revision 0) B MDLB\001, version 256.0.32768 (region 3891177283), 32831 bytes or less, UNKNOWN1 0xe7eea743, UNKNOWN3 0x803f, at 0x0 0 bytes , at 0x0 0 bytes 
+stg38_03.dat: data
+stg38_04.dat: data
+stg38_05.dat: data
+stg38_06.dat: data
+stg38_07.dat: data
+stg38_.bin:   data
+stg38_t.bin:  data
+stg38_t.dat:  data
+stg39_00.dat: data
+stg39_01.dat: firmware 0 v0 (revision 320057029) 4 (n\221(\315\327\300/ (region 1797458243), 32831 bytes or less, UNKNOWN1 0x6b230943, at 0x0 0 bytes , at 0x0 0 bytes 
+stg39_02.dat: data
+stg39_03.dat: data
+stg39_04.dat: data
+stg39_05.dat: data
+stg39_.bin:   data
+stg39_t.bin:  data
+stg39_t.dat:  data
+stg40_00.dat: firmware 2568 v3024 (revision 3295096868)  \023\2150$\346n\350C\023\2150$ (region 2233474094), 2090556979 bytes or less, UNKNOWN1 0x85201c2e, UNKNOWN2 0x428d3024, UNKNOWN3 0xbd673024, at 0x50b57335 3469920562 bytes , at 0x8b593839 2360478514 bytes 
+stg40_01.dat: data
+stg40_02.dat: data
+stg40_.bin:   data
+Stg40_t.bin:  data
+Stg40_t.dat:  data
+stg41_00.dat: data
+stg41_.bin:   data
+Stg41_t.bin:  data
+Stg41_t.dat:  data
+stg42_00.dat: data
+stg42_01.dat: firmware a3d1 va244 (revision 3751425090) " \023\2150$ (region 2050013123), 0 bytes or less, UNKNOWN1 0x7a30b7c3, UNKNOWN3 0x803f, at 0x0 0 bytes , at 0x0 0 bytes 
+stg42_02.dat: data
+stg42_03.dat: data
+stg42_04.dat: data
+stg42_05.dat: data
+stg42_.bin:   data
+stg42_t.bin:  data
+stg42_t.dat:  data
+stg43_00.dat: data
+stg43_01.dat: firmware a3d1 va244 (revision 3751425090) " \023\2150$ (region 2050013123), 0 bytes or less, UNKNOWN1 0x7a30b7c3, UNKNOWN3 0x803f, at 0x0 0 bytes , at 0x0 0 bytes 
+stg43_02.dat: data
+stg43_03.dat: data
+stg43_04.dat: data
+stg43_05.dat: data
+stg43_.bin:   data
+stg43_t.bin:  data
+stg43_t.dat:  data
+stg48_00.dat: data
+stg48_01.dat: firmware a3d1 va244 (revision 3751425090) ' \023\2150$ (region 2050013123), 0 bytes or less, UNKNOWN1 0x7a30b7c3, UNKNOWN3 0x803f, at 0x0 0 bytes , at 0x0 0 bytes 
+stg48_02.dat: data
+stg48_03.dat: data
+stg48_04.dat: data
+stg48_05.dat: data
+stg48_.bin:   data
+stg48_t.bin:  data
+stg48_t.dat:  data
+stg49_.bin:   data
+stg49_t.bin:  data
+stg49_t.dat:  data

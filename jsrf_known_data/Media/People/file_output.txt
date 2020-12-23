@@ -1,0 +1,2 @@
+People01.bin: data
+People01.dat: DOS/MBR boot sector

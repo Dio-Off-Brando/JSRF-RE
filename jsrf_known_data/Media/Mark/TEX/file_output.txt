@@ -1,0 +1,300 @@
+grf_0_01.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_01.prs:      data
+grf_0_02.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_02.prs:      data
+grf_0_03.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_03.prs:      data
+grf_0_04.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_04.prs:      data
+grf_0_05.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_05.prs:      data
+grf_0_06.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_06.prs:      data
+grf_0_07.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_07.prs:      data
+grf_0_08.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_08.prs:      data
+grf_0_09.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_09.prs:      data
+grf_0_10.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_10.prs:      DIY-Thermocam raw data (Lepton 2.x), scale 8446-8446, spot sensor temperature -48181999828412347585630436476003024896.000000, unit celsius, color scheme 0, show spot sensor, calibration: offset 39614081257132168796771975168.000000, slope 39748272023109392635164360704.000000
+grf_0_11.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_11.prs:      data
+grf_0_12.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_12.prs:      data
+grf_0_13.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_13.prs:      data
+grf_0_14.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_14.prs:      data
+grf_0_15.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_15.prs:      data
+grf_0_16.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_16.prs:      data
+grf_0_17.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_17.prs:      data
+grf_0_18.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_18.prs:      data
+grf_0_19.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_19.prs:      data
+grf_0_20.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_20.prs:      data
+grf_0_21.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_21.prs:      data
+grf_0_22.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_22.prs:      data
+grf_0_23.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_23.prs:      data
+grf_0_24.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_24.prs:      data
+grf_0_25.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_25.prs:      data
+grf_0_26.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_26.prs:      data
+grf_0_27.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_27.prs:      data
+grf_0_28.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_0_28.prs:      data
+grf_1_01.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_01.prs:      data
+grf_1_02.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_02.prs:      data
+grf_1_03.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_03.prs:      data
+grf_1_04.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_04.prs:      data
+grf_1_05.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_05.prs:      data
+grf_1_06.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_06.prs:      data
+grf_1_07.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_07.prs:      data
+grf_1_08.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_08.prs:      data
+grf_1_09.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_09.prs:      data
+grf_1_10.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_10.prs:      data
+grf_1_11.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_11.prs:      data
+grf_1_12.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_12.prs:      data
+grf_1_13.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_13.prs:      data
+grf_1_14.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_14.prs:      data
+grf_1_15.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_15.prs:      data
+grf_1_16.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_16.prs:      data
+grf_1_17.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_17.prs:      data
+grf_1_18.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_18.prs:      data
+grf_1_19.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_19.prs:      data
+grf_1_20.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_20.prs:      data
+grf_1_21.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_21.prs:      data
+grf_1_22.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_22.prs:      data
+grf_1_23.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_23.prs:      data
+grf_1_24.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_24.prs:      data
+grf_1_25.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_25.prs:      data
+grf_1_26.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_26.prs:      data
+grf_1_27.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_27.prs:      data
+grf_1_28.grf:      Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+grf_1_28.prs:      data
+grf_2_01.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_01.prs:      data
+grf_2_02.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_02.prs:      data
+grf_2_03.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_03.prs:      data
+grf_2_04.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_04.prs:      data
+grf_2_05.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_05.prs:      data
+grf_2_06.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_06.prs:      data
+grf_2_07.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_07.prs:      data
+grf_2_08.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_08.prs:      data
+grf_2_09.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_09.prs:      data
+grf_2_10.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_10.prs:      DIY-Thermocam raw data (Lepton 3.x), scale 0-0, spot sensor temperature 0.000000, unit celsius, color scheme 0, show spot sensor, calibration: offset 0.000000, slope 631358713652782227660333907968.000000
+grf_2_11.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_11.prs:      data
+grf_2_12.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_12.prs:      data
+grf_2_13.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_13.prs:      DIY-Thermocam raw data (Lepton 3.x), scale 0-0, spot sensor temperature 0.000000, unit celsius, color scheme 0, show spot sensor, calibration: offset -649037107316853453566312041152512.000000, slope 147468109202340184064.000000
+grf_2_14.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_14.prs:      data
+grf_2_15.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_15.prs:      data
+grf_2_16.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_16.prs:      data
+grf_2_17.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_17.prs:      data
+grf_2_18.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_18.prs:      data
+grf_2_19.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_19.prs:      data
+grf_2_20.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_20.prs:      data
+grf_2_21.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_21.prs:      data
+grf_2_22.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_22.prs:      data
+grf_2_23.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_23.prs:      data
+grf_2_24.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_24.prs:      data
+grf_2_25.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_25.prs:      data
+grf_2_26.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_26.prs:      data
+grf_2_27.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_27.prs:      data
+grf_2_28.grf:      Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+grf_2_28.prs:      data
+grf_3_01.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_01.prs:      data
+grf_3_02.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_02.prs:      data
+grf_3_03.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_03.prs:      data
+grf_3_04.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_04.prs:      data
+grf_3_05.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_05.prs:      data
+grf_3_06.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_06.prs:      data
+grf_3_07.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_07.prs:      data
+grf_3_08.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_08.prs:      data
+grf_3_09.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_09.prs:      data
+grf_3_10.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_10.prs:      data
+grf_3_11.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_11.prs:      data
+grf_3_12.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_12.prs:      data
+grf_3_13.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_13.prs:      data
+grf_3_14.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_14.prs:      data
+grf_3_15.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_15.prs:      data
+grf_3_16.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_16.prs:      data
+grf_3_17.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_17.prs:      data
+grf_3_18.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_18.prs:      data
+grf_3_19.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_19.prs:      data
+grf_3_20.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_20.prs:      data
+grf_3_21.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_21.prs:      data
+grf_3_22.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_22.prs:      data
+grf_3_23.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_23.prs:      data
+grf_3_24.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_24.prs:      data
+grf_3_25.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_25.prs:      data
+grf_3_26.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_26.prs:      data
+grf_3_27.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_27.prs:      data
+grf_3_28.grf:      Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+grf_3_28.prs:      data
+grf_4_01.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_01.prs:      data
+grf_4_02.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_02.prs:      data
+grf_4_03.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_03.prs:      data
+grf_4_04.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_04.prs:      data
+grf_4_05.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_05.prs:      data
+grf_4_06.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_06.prs:      data
+grf_4_07.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_07.prs:      data
+grf_4_08.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_08.prs:      data
+grf_4_09.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_09.prs:      data
+grf_4_10.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_10.prs:      data
+grf_4_11.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_11.prs:      data
+grf_4_12.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_12.prs:      data
+grf_4_13.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_13.prs:      data
+grf_4_14.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_14.prs:      data
+grf_4_15.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_15.prs:      data
+grf_4_16.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_16.prs:      data
+grf_4_17.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_17.prs:      data
+grf_4_18.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_18.prs:      data
+grf_4_19.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_19.prs:      data
+grf_4_20.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_20.prs:      data
+grf_4_21.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_21.prs:      data
+grf_4_22.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_22.prs:      TeX font metric data
+grf_4_23.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_23.prs:      data
+grf_4_24.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_24.prs:      data
+grf_4_25.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_25.prs:      data
+grf_4_26.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_26.prs:      data
+grf_4_27.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_27.prs:      data
+grf_4_28.grf:      Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+grf_4_28.prs:      data
+rpolice_00_31.grf: Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+rpolice_00_31.prs: data
+rpolice_01_31.grf: Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+rpolice_01_31.prs: data
+rpolice_02_31.grf: Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+rpolice_02_31.prs: data
+rpolice_03_31.grf: Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+rpolice_03_31.prs: data
+rpolice_04_31.grf: Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+rpolice_04_31.prs: data
+sai_00_00.grf:     Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+sai_00_00.prs:     data
+sai_01_00.grf:     Targa image data - RGBA 128 x 128 x 32 - 8-bit alpha
+sai_01_00.prs:     data
+sai_02_00.grf:     Targa image data - RGBA 384 x 256 x 32 - 8-bit alpha
+sai_02_00.prs:     data
+sai_03_00.grf:     Targa image data - RGBA 512 x 256 x 32 - 8-bit alpha
+sai_03_00.prs:     data
+sai_04_00.grf:     Targa image data - RGBA 1024 x 256 x 32 - 8-bit alpha
+sai_04_00.prs:     data
